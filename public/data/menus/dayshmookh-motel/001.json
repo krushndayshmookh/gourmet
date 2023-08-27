@@ -1,0 +1,81 @@
+{
+  "restaurantName": "Dayshmookh Motel",
+  "templateId": "001",
+  "headerImage": "https://pexels.com/image.jpg",
+  "menuCategories": [
+    {
+      "name": "snacks",
+      "label": "Snacks"
+    },
+    {
+      "name": "drinks",
+      "label": "Drinks"
+    },
+    {
+      "name": "desserts",
+      "label": "Desserts"
+    },
+    {
+      "name": "main-course",
+      "label": "Main Course"
+    }
+  ],
+  "menuItems": {
+    "snacks": [
+      {
+        "itemLabel": "Paneer Tikka",
+        "itemDescription": "Cottage cheese marinated in spices and grilled in a tandoor.",
+        "itemPrice": 200,
+        "itemImage": "https://pexels.com/image.jpg"
+      },
+      {
+        "itemLabel": "Dosa",
+        "itemDescription": "A thin crispy crepe made from rice and lentils.",
+        "itemPrice": 100,
+        "itemImage": "https://pexels.com/image.jpg"
+      }
+    ],
+    "drinks": [
+      {
+        "itemLabel": "Coke",
+        "itemDescription": "A carbonated soft drink.",
+        "itemPrice": 50,
+        "itemImage": "https://pexels.com/image.jpg"
+      },
+      {
+        "itemLabel": "Sprite",
+        "itemDescription": "A colorless, caffeine-free, lemon and lime-flavored soft drink.",
+        "itemPrice": 50,
+        "itemImage": "https://pexels.com/image.jpg"
+      }
+    ],
+    "desserts": [
+      {
+        "itemLabel": "Gulab Jamun",
+        "itemDescription": "A milk-solid-based sweet from the Indian subcontinent.",
+        "itemPrice": 100,
+        "itemImage": "https://pexels.com/image.jpg"
+      },
+      {
+        "itemLabel": "Rasgulla",
+        "itemDescription": "A syrupy dessert from West Bengal, India",
+        "itemPrice": 100,
+        "itemImage": "https://pexels.com/image.jpg"
+      }
+    ],
+    "main-course": [
+      {
+        "itemLabel": "Paneer Kolhapuri 🌶️",
+        "itemDescription": "A spicy dish from the Kolhapur region of Maharashtra.",
+        "itemPrice": 300,
+        "itemImage": "https://pexels.com/image.jpg"
+      },
+      {
+        "itemLabel": "Dal Makhani",
+        "itemDescription": "A popular dish from the Punjab region of the Indian subcontinent.",
+        "itemPrice": 200,
+        "itemImage": "https://pexels.com/image.jpg"
+      }
+    ]
+  }
+}

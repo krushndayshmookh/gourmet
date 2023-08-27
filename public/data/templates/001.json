@@ -1,0 +1,9 @@
+{
+  "name": "petals",
+
+  "styleClasses": {
+    "header": "bg-green-1 text-teal-9",
+    "restaurantName": "text-h5 text-center text-uppercase text-barlow",
+    "categoryName": "text-h6 text-center text-barlow text-pink-7"
+  }
+}
